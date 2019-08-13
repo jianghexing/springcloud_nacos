@@ -38,5 +38,9 @@ spring.cloud.nacos.config.group=DEFAULT_GROUP
 email:jiang_java@163.com
 ```
 
+```
+socket 主要提供了工具类，已经页面的写法； 可以参考使用；
+```
+
 
 
